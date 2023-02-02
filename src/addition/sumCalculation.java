@@ -11,7 +11,9 @@ public class sumCalculation {
 		System.out.println("Enter no 2nd:");
 		int b=sc.nextInt();
 		int sum=a+b;
+		int mul=a*b;
 		System.out.println("Sum: "+sum);
+		System.out.println("Mul: "+mul);
 		
 	}
 
